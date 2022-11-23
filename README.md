@@ -5,7 +5,7 @@
 1 - Página desenvolvida em:
 - HTML, 
 - JS,
-- CSS3;
+- CSS3.
 
 2 - Modelo de uma página para exibição de informações de uma empresa fictícia.
 
